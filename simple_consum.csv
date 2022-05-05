@@ -1,0 +1,16 @@
+﻿vehicle_typ;energy_consumption;fuel_typ;emissions;class
+BEV;14,5;electric;,131;car
+DICEV;63,6;diesel;,270;car
+BICEV;60,3;benzine;,273;car
+FCEV;33,4;hydrogen;,131;car
+PHEV;38,2;benzine;,273;car
+Gascar;48,0;gas;,259;car
+nDICEV;57,9;diesel;,270;car
+nBICEV;50,2;benzine;,273;car
+People_Mover;5,6;electric;,131;movr
+Electric_Bus;6,4;electric;,131;bus
+FC_Bus;15,5;hydrogen;,131;bus
+ICE_Bus;16,7;diesel;,270;bus
+Hybrid_Bus;13,4;diesel;,270;bus
+Gasbus;13,4;gas;,259;bus
+TESLA_Model3;12,8;electric;,146;car
